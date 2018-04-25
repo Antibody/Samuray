@@ -1,4 +1,4 @@
 Samuray
 =======
 
-Purchase domain and get free hosting
+DNS & domain name testing
